@@ -5,7 +5,8 @@ const explorerUrlChipnet = "https://chipnet.chaingraph.cash";
 const chaingraphUrl = "https://gql.chaingraph.pat.mn/v1/graphql";
 const trustedTokenLists = [
   "https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json",
-  "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/example_bcmr.json"
+  "https://raw.githubusercontent.com/mr-zwets/example_bcmr/main/example_bcmr.json",
+  "https://folding.cash/.well-known/bitcoin-cash-metadata-registry.json"
 ];
 const ipfsGateway = "https://ipfs.io/ipfs/";
 const bcmrIndexer = "https://bcmr.paytaca.com/api";
